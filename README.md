@@ -18,11 +18,6 @@
 </p>
 
 
-### 📊 Stats
-
-![SeYoung818's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeYoung818&show_icons=true&theme=default_repocard)
-
-
 <!--
 **SeYoung818/SeYoung818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
